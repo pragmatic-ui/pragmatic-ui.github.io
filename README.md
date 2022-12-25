@@ -1,4 +1,2 @@
-# pragmatic-ui.github.io
+# Pragmatic UI
 UI Template for Newbie Programmer
-
-test
